@@ -29,5 +29,6 @@
 ##
 
 <div style="display: inline_block" align="center"> <br>
-  <a href="http://www.linkedin.com/in/j%C3%BAlia-bueno-93237830a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" witdh="40"></a>
+  <a href="http://www.linkedin.com/in/j%C3%BAlia-bueno-93237830a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" witdh="40" target="_blank"></a>
+  <a href="mailto: juliabueno6@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="30" witdh="40" target="_blank"></a>
 </div>
