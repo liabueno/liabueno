@@ -1,6 +1,6 @@
-##👋 Olá, eu sou a Júlia
+##  👋 Olá, eu sou a Júlia
 
-## 🎓Sou técnica em DS | 👩‍💻 Estou cursando o 1° Ano de ADS
+##  🎓 Sou técnica em DS | 👩‍💻 Estou cursando o 1° Ano de ADS
 
 💬 Estudando: Laravel
 
