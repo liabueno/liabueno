@@ -2,7 +2,7 @@
 
 🎓 Técnica em DS | 👩‍💻 Cursando o 2° Ano de ADS
 
-💬 Estudando: React
+💬 Estudando: Flutter
 
 <div align="center">
   <br>
