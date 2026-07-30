@@ -23,13 +23,13 @@ Atualmente estudando: **Programação Genética** e **IoT**
 ### Linguagens
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,php,c,dart,python,html,css" />
+<img src="https://skillicons.dev/icons?i=ts,js,php,c,dart,python,html,css,scss" />
 </p>
 
 ### Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,flutter,laravel,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,flutter,laravel,bootstrap,tailwind,angular" />
 </p>
 
 ### Banco de Dados
