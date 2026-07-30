@@ -35,7 +35,7 @@ Atualmente estudando: **Programação Genética** e **IoT**
 ### Banco de Dados
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 
 ### Ferramentas
